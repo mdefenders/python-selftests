@@ -1,0 +1,8 @@
+2025-07-27 10:12:01 INFO Starting application
+2025-07-27 10:12:02 DEBUG Initializing modules
+2025-07-27 10:12:03 ERROR Failed to connect to database
+2025-07-27 10:12:04 INFO Retrying connection
+2025-07-27 10:12:05 ERROR Connection timeout after 5 attempts
+2025-07-27 10:12:06 INFO Shutting down service
+2025-07-27 10:12:07 WARNING Memory usage is high
+2025-07-27 10:12:08 ERROR Disk quota exceeded
